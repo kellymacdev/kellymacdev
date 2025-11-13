@@ -31,7 +31,7 @@ During my PhD, I developed a strong foundation in:
 - Symbolic and numerical computation  
 - Communicating technical ideas clearly through code and writing  
 
-### That same problem-solving mindset now drives how I approach software design and development.
+#### That same problem-solving mindset now drives how I approach software design and development.
 ---
 
 ### 🌐 Find me online
