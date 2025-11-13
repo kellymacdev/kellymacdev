@@ -21,7 +21,6 @@ After completing my PhD in **modified gravity and braneworld cosmology**, I’ve
 ### 🌟 Featured Projects
 - [**Blunderstruck**](https://github.com/kellymacdev/blunderstruck) 
 - [**AskHole**](https://github.com/kellymacdev/askhole) 
-- [**Cosmology Research Codebase**](https://github.com/kellymacdev/thesis) 
 ---
 
 ### 🎓 Background
