@@ -20,9 +20,9 @@ After completing my PhD in **modified gravity and braneworld cosmology**, I’ve
 ---
 
 ### 🌟 Featured Projects
-- [**Blunderstruck**](https://github.com/kellymacdev/blunderstruck) 
+- [**Blunderstruck**](https://github.com/kellymacdev/blunderstruck-frontend) 
 - [**AskHole**](https://github.com/kellymacdev/askhole)
-- [**Yearbook**](https://github.com/kellymacdev/yearbook)
+- [**Yearbook**](https://github.com/kellymacdev/TWCyearbook)
 ---
 
 ### 🎓 Background
@@ -37,5 +37,5 @@ That same problem-solving mindset now drives how I approach software design and 
 ### 🌐 Find me online
 💻 [Portfolio](https://kellymacdev.github.io)  
 📩 [Email](mailto:kellymacdev@gmail.com)  
-[in] [LinkedIn](https://www.linkedin.com/in/yourprofile)
+[in] [LinkedIn](https://www.linkedin.com/in/kelly-macdevette-bb88ab174/)
 📖 [My Research](https://inspirehep.net/authors/1997191)
