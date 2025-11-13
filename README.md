@@ -7,6 +7,7 @@ After completing my PhD in **modified gravity and braneworld cosmology**, I’ve
 ### 🔭 What I’m working on
 - Developing **data-driven web apps** with **React** and **Django**
 -  Building **Blunderstruck**, a chess stats visualiser to make fun of my boyfriend's poor performance
+-  Maintaining and generalising **Yearbook**, a web app serving as a digital 10-years-on high school reunion yearbook
 - Deepening my understanding of the **mathematical foundations and algorithms behind AI** through Harvard’s CS50AI course
 ---
 
@@ -20,7 +21,8 @@ After completing my PhD in **modified gravity and braneworld cosmology**, I’ve
 
 ### 🌟 Featured Projects
 - [**Blunderstruck**](https://github.com/kellymacdev/blunderstruck) 
-- [**AskHole**](https://github.com/kellymacdev/askhole) 
+- [**AskHole**](https://github.com/kellymacdev/askhole)
+- [**Yearbook**](https://github.com/kellymacdev/yearbook)
 ---
 
 ### 🎓 Background
