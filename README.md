@@ -1,6 +1,5 @@
 # Hi, I’m Kelly  
 
-
 #### I’m a **theoretical cosmologist turned wannabe software developer** with a background in mathematical modeling, dynamical systems and data analysis. After completing my PhD in **modified gravity and braneworld cosmology**, I’ve been rediscovering the creativity and fun of bringing ideas to life; teaching myself **software development** by designing and building creative, playful projects — the same kind of curiosity-driven work that fueled my research.
 ---
 
