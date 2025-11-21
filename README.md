@@ -21,7 +21,6 @@
 ### Featured Projects
 - [**Blunderstruck**](https://github.com/kellymacdev/Blunderstruck-frontend) 
 - [**AskHole**](https://github.com/kellymacdev/askhole)
-- [**Yearbook**](https://github.com/kellymacdev/TWCYearbook)
 ---
 
 ### Background
