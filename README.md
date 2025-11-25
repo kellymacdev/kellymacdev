@@ -8,6 +8,7 @@
 -  Building *Blunderstruck*, a chess stats visualiser to make fun of my boyfriend's poor performance
 -  Maintaining and generalising *Yearbook*, a web app serving as a digital 10-years-on high school reunion yearbook
 - Deepening my understanding of the mathematical foundations and algorithms behind AI through Harvard’s CS50AI course
+- Learning TensorFlow.js with Google's WebML102 course
 ---
 
 ### Tech Stack
